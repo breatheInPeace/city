@@ -145,18 +145,22 @@ figure:nth-child(16)::after{
 
 figure:nth-child(17)::after{
     content: "In the area of Lenin Avenue";
+    text-align: center;
 }
 
 figure:nth-child(18)::after{
     content: "In the area of Lenin Avenue";
+    text-align: center;
 }
 
 figure:nth-child(19)::after{
     content: "In the area of Lenin Avenue";
+    text-align: center;
 }
 
 figure:nth-child(20)::after{
     content: "In the area of Lenin Avenue";
+    text-align: center;
 }
 
 figure:nth-child(21)::after{
@@ -169,6 +173,7 @@ figcaption {
     text-align: center;
     font-size: 0.8rem;
     position: relative;
+    line-height: 0.9rem;
 }
 
 
